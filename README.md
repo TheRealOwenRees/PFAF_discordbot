@@ -1,5 +1,5 @@
 # PFAF Bot
-## Pull PFAF data directly on you Discord server.
+## Pull PFAF data directly onto your Discord server.
 
 PFAF Bot identifies pulls data directly from [PFAF], displaying it in code blocks in your Discord server. This bot was written as a proof of concept, utilising web scraping of aspx pages.
 
